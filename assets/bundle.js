@@ -24472,13 +24472,13 @@ class App extends exports1.Component {
         }, exports1.createElement("div", {
             style: titleStyle,
             className: "title"
-        }, _site.c_siteTitle), exports1.createElement("button", {
+        }, _site.c_siteTitle1), exports1.createElement("button", {
             className: "click",
             onClick: this.increaseCount
         }, "Click to demo hydration: ", this.state.count), exports1.createElement("div", {
             style: nameStyle,
             className: "name"
-        }, "Site Description: ", _site.c_siteDescription), exports1.createElement("div", {
+        }, "Site Description: ", _site.c_siteDescription1), exports1.createElement("div", {
             style: nameStyle,
             className: "name"
         }, "Business Name: ", name), exports1.createElement("div", {

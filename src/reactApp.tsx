@@ -42,12 +42,12 @@ class App extends React.Component<MyProps, MyState> {
     return (
       <div className="app">
         <div style={titleStyle} className="title">
-          {_site.c_siteTitle}
+          {_site.c_siteTitle1}
         </div>
         <button className="click" onClick={this.increaseCount}>
           Click to demo hydration: {this.state.count}
         </button>
-        <div style={nameStyle} className="name">Site Description: {_site.c_siteDescription}</div>
+        <div style={nameStyle} className="name">Site Description: {_site.c_siteDescription1}</div>
         <div style={nameStyle} className="name">Business Name: {name}</div>
         <div style={nameStyle} className="id">Entity Id: {id}</div>
         <Address address={address}/>

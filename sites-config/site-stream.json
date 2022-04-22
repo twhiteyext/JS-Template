@@ -5,7 +5,7 @@
   },
   "source": "knowledgeGraph",
   "fields": [
-    "c_siteTitle",
-    "c_siteDescription"
+    "c_siteTitle1",
+    "c_siteDescription1"
   ]
 }

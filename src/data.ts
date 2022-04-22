@@ -12,8 +12,8 @@ export interface StreamOutput {
   id: string;
   locale: string;
   _site: {
-    c_siteTitle: string;
-    c_siteDescription: string;
+    c_siteTitle1: string;
+    c_siteDescription1: string;
   }
 }
 

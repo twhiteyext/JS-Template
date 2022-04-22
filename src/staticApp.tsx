@@ -25,9 +25,9 @@ class Static extends React.Component<MyProps, MyState> {
     return (
       <div className="app">
         <div style={titleStyle} className="title">
-          {_site.c_siteTitle}
+          {_site.c_siteTitle1}
         </div>
-        <div style={nameStyle} className="name">Site Description: {_site.c_siteDescription}</div>
+        <div style={nameStyle} className="name">Site Description: {_site.c_siteDescription1}</div>
         <div style={nameStyle} className="name">About us: We do stuff</div>
       </div>
     );
