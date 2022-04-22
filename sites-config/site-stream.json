@@ -1,7 +1,7 @@
 {
-  "$id": "joes-site",
+  "$id": "thomas-site",
   "filter": {
-    "entityIds": ["8812729808173028417"]
+    "entityIds": ["2834656344742336915"]
   },
   "source": "knowledgeGraph",
   "fields": [
