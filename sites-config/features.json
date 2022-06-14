@@ -34,7 +34,7 @@
     ],
     "responseHeaders": [
     {
-      "pathPattern": ".*location-en-.*",
+      "pathPattern": ".*",
       "headerKey": "foo",
       "headerValues": [
         "bar"
