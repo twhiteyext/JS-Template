@@ -31,7 +31,7 @@
                 ]
             }
         }
-    ]
+    ],
     "responseHeaders": [
     {
       "pathPattern": "location-en-.*",
