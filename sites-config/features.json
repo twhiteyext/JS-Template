@@ -32,4 +32,13 @@
             }
         }
     ]
+    "responseHeaders": [
+    {
+      "pathPattern": "location-en-.*",
+      "headerKey": "foo",
+      "headerValues": [
+        "bar"
+      ]
+    },
+  ]
 }
