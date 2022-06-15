@@ -35,9 +35,9 @@
     "responseHeaders": [
     {
       "pathPattern": "location-.*",
-      "headerKey": "foo",
+      "headerKey": "bar",
       "headerValues": [
-        "bar"
+        "foo"
       ]
     }
   ]
