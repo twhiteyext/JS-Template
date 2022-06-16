@@ -2,15 +2,10 @@
     "locales": ["en", "es"],
     "features": [
         {
-            "name": "Locations",
+            "name": "Hong",
             "streamId": "thomas-site-locations",
             "templateType": "JS",
             "entityPageSet": {}
-        },
-        {
-            "name": "About",
-            "templateType": "JS",
-            "staticPage": {}
         }
     ],
     "streams": [
