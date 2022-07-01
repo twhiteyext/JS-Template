@@ -33,12 +33,19 @@
         }
     ],
     "responseHeaders": [
-    {
-      "pathPattern": "location-.*",
-      "headerKey": "bar",
-      "headerValues": [
-        "foo"
-      ]
-    }
-  ]
+        {
+            "pathPattern": "location-.*",
+            "headerKey": "bar",
+            "headerValues": [
+            "foo"
+            ]
+        },
+        {
+            "pathPattern": ".*",
+            "headerKey": "all-files",
+            "headerValues": [
+            "have-headers"
+            ]
+        }
+    ]
 }
