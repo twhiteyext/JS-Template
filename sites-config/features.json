@@ -34,17 +34,17 @@
     ],
     "responseHeaders": [
         {
-            "pathPattern": "location-.*",
-            "headerKey": "bar",
+            "pathPattern": "location-en.*",
+            "headerKey": "foo",
             "headerValues": [
-            "foo"
+                "bar"
             ]
         },
         {
             "pathPattern": ".*",
             "headerKey": "all-files",
             "headerValues": [
-            "have-headers"
+                "have-headers"
             ]
         }
     ]
