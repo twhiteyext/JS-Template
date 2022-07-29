@@ -44,7 +44,7 @@
             "pathPattern": ".*",
             "headerKey": "all-files",
             "headerValues": [
-                "have-headers"
+                "qwe-headers"
             ]
         }
     ]
