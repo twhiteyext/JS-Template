@@ -49,7 +49,7 @@
             "pathPattern": ".*",
             "headerKey": "all-files",
             "headerValues": [
-                "qwe-headers"
+                "test-headers"
             ]
         }
     ]
