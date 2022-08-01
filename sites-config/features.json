@@ -10,7 +10,7 @@
                     "pluginName": "pageRenderer",
                     "functionName": "RenderPage"
                 },
-            },
+            }
         },
         {
             "name": "About",
