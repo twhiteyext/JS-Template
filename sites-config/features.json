@@ -5,7 +5,12 @@
             "name": "Locations",
             "streamId": "thomas-site-locations",
             "templateType": "JS",
-            "entityPageSet": {}
+            "entityPageSet": {
+                "onPageGenerate": {
+                    "pluginName": "pageRenderer-uhimu5gt3c",
+                    "functionName": "RenderPage"
+                    }
+            }
         },
         {
             "name": "About",
