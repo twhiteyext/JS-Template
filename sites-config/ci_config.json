@@ -7,7 +7,7 @@
     ],
     "plugins": [
       {
-        "pluginName": "pageRenderer-o",
+        "pluginName": "pageRenderer-1",
         "sourceFiles": [
           {
             "root": "src"
@@ -17,10 +17,10 @@
         "functionName": "RenderPage"
       },
       {
-        "pluginName": "pageRenderer-u",
+        "pluginName": "pageRenderer-2",
         "sourceFiles": [
           {
-            "root": "src"
+            "root": "src2"
           }
         ],
         "event": "ON_PAGE_GENERATE",
