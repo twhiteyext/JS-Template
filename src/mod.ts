@@ -46,8 +46,3 @@ export async function RenderPage(doc: Data) {
   const result: Result = { content: template, path: path, redirects: [] };
   return result;
 }
-
-export async function GeneratorPage(doc: Data) {
-  const PI = 3.1415;
-  return PI;
-}
