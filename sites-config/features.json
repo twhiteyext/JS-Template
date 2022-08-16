@@ -4,8 +4,7 @@
         {
             "name": "Locations",
             "streamId": "thomas-site-locations",
-            "templateType": "JS",
-            "entityPageSet": {
+            "onUrlChange": {
                 "onPageGenerate": {
                     "pluginName": "pageRenderer",
                     "functionName": "RenderPage"
@@ -14,7 +13,6 @@
         },
         {
             "name": "About",
-            "templateType": "JS",
             "staticPage": {}
         }
     ],
