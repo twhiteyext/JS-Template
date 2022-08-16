@@ -20,7 +20,7 @@
         "pluginName": "pageRenderer-3",
         "sourceFiles": [
           {
-            "root": "src"
+            "root": "src3"
           }
         ],
         "event": "ON_URL_CHANGE",
