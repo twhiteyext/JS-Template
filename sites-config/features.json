@@ -5,10 +5,8 @@
             "name": "Locations",
             "streamId": "thomas-site-locations",
             "onUrlChange": {
-                "onPageGenerate": {
                     "pluginName": "pageRenderer",
                     "functionName": "RenderPage"
-                    }
             }
         },
         {
