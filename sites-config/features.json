@@ -7,7 +7,7 @@
             "templateType": "JS",
             "entityPageSet": {
                 "onPageGenerate": {
-                    "pluginName": "pageRenderer-123",
+                    "pluginName": "pageRenderer",
                     "functionName": "RenderPage"
                     }
             }
