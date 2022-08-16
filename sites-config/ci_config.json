@@ -23,7 +23,7 @@
             "root": "src"
           }
         ],
-        "event": "ON_URL_GENERATE",
+        "event": "ON_URL_CHANGE",
         "functionName": "RenderPage"
       },
       {
