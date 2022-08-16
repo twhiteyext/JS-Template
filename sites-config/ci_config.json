@@ -24,7 +24,7 @@
           }
         ],
         "event": "ON_PAGE_GENERATE",
-        "functionName": "RenderPage"
+        "functionName": "RenderPage2"
       }
     ]
   },
