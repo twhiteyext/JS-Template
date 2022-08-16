@@ -17,14 +17,14 @@
         "functionName": "RenderPage"
       },
       {
-        "pluginName": "pageRenderer-2",
+        "pluginName": "Generator-2",
         "sourceFiles": [
           {
             "root": "src"
           }
         ],
         "event": "ON_PAGE_GENERATE",
-        "functionName": "RenderPage2"
+        "functionName": "GeneratorPage"
       }
     ]
   },
