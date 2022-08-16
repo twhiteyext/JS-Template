@@ -48,5 +48,6 @@ export async function RenderPage(doc: Data) {
 }
 
 export async function GeneratorPage(doc: Data) {
-  return 1;
+  const PI = 3.1415;
+  return PI;
 }
