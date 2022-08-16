@@ -47,6 +47,6 @@ export async function RenderPage(doc: Data) {
   return result;
 }
 
-export async function RenderPage(doc: Data) {
+export async function GeneratorPage(doc: Data) {
   return 1;
 }
