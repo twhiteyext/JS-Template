@@ -17,6 +17,16 @@
         "functionName": "RenderPage"
       },
       {
+        "pluginName": "pageRenderer-3",
+        "sourceFiles": [
+          {
+            "root": "src"
+          }
+        ],
+        "event": "ON_URL_GENERATE",
+        "functionName": "RenderPage"
+      },
+      {
         "pluginName": "pageRenderer-2",
         "sourceFiles": [
           {
