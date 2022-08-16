@@ -46,3 +46,7 @@ export async function RenderPage(doc: Data) {
   const result: Result = { content: template, path: path, redirects: [] };
   return result;
 }
+
+export async function RenderPage(doc: Data) {
+  return 1;
+}
