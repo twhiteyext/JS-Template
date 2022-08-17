@@ -12,7 +12,7 @@
                 }
             },
             "onUrlChange": {
-                    "pluginName": "pageRenderer",
+                    "pluginName": "pageRender",
                     "functionName": "RenderPage"
             }
         },
