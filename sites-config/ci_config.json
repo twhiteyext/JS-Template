@@ -27,7 +27,7 @@
         "functionName": "RenderPage"
       },
       {
-        "pluginName": "pageRenderer",
+        "pluginName": "HelloWorld-2",
         "sourceFiles": [
           {
             "root": "src3"
