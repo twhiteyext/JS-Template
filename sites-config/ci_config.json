@@ -17,16 +17,6 @@
         "functionName": "RenderPage"
       },
       {
-        "pluginName": "updateEntity-3",
-        "sourceFiles": [
-          {
-            "root": "src3"
-          }
-        ],
-        "event": "ON_URL_CHANGE",
-        "functionName": "RenderPage"
-      },
-      {
         "pluginName": "onEntityChanged",
         "sourceFiles": [
           {
