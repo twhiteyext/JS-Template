@@ -34,7 +34,7 @@
           }
         ],
         "event": "ON_URL_CHANGE",
-        "functionName": "HelloWorld"
+        "functionName": "RenderPage"
       }
     ]
   },
