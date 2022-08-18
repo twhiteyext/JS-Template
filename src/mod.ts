@@ -46,3 +46,8 @@ export async function RenderPage(doc: Data) {
   const result: Result = { content: template, path: path, redirects: [] };
   return result;
 }
+
+export async function HelloWorld(doc: Data) {
+  const number = 1;
+  return number;
+}
