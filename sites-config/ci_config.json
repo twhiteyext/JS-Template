@@ -17,7 +17,7 @@
         "functionName": "RenderPage"
       },
       {
-        "pluginName": "pageRenderer-3",
+        "pluginName": "updateEntity-3",
         "sourceFiles": [
           {
             "root": "src3"
@@ -27,7 +27,7 @@
         "functionName": "RenderPage"
       },
       {
-        "pluginName": "pageRenderer-2",
+        "pluginName": "onEntityChanged",
         "sourceFiles": [
           {
             "root": "src2"
