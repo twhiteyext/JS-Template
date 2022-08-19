@@ -7,7 +7,7 @@
     ],
     "plugins": [
       {
-        "pluginName": "pageRenderer-1",
+        "pluginName": "pageRenderer",
         "sourceFiles": [
           {
             "root": "src"
@@ -15,27 +15,9 @@
         ],
         "event": "ON_PAGE_GENERATE",
         "functionName": "RenderPage"
-      },
-      {
-        "pluginName": "pageRenderer",
-        "sourceFiles": [
-          {
-            "root": "src2"
-          }
-        ],
-        "event": "ON_URL_CHANGE",
-        "functionName": "RenderPage"
-      },
-      {
-        "pluginName": "HelloWorld-2",
-        "sourceFiles": [
-          {
-            "root": "src3"
-          }
-        ],
-        "event": "ON_URL_CHANGE",
-        "functionName": "RenderPage"
-      },
+      }
+    ]
+  },
   "dependencies": {
     "installDepsCmd": ":",
     "requiredFiles": []
