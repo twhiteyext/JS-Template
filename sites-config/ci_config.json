@@ -35,8 +35,7 @@
         ],
         "event": "ON_URL_CHANGE",
         "functionName": "RenderPage"
-    ]
-  },
+      },
   "dependencies": {
     "installDepsCmd": ":",
     "requiredFiles": []
