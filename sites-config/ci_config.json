@@ -25,7 +25,16 @@
         ],
         "event": "ON_URL_CHANGE",
         "functionName": "RenderPage"
-      }
+      },
+      {
+        "pluginName": "HelloWorld-2",
+        "sourceFiles": [
+          {
+            "root": "src3"
+          }
+        ],
+        "event": "ON_URL_CHANGE",
+        "functionName": "RenderPage"
     ]
   },
   "dependencies": {
