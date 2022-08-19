@@ -10,10 +10,6 @@
                     "pluginName": "pageRenderer",
                     "functionName": "RenderPage"
                 }
-            },
-            "onUrlChange": {
-                    "pluginName": "pageRenderer",
-                    "functionName": "RenderPage"
             }
         },
         {
