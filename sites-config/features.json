@@ -15,7 +15,7 @@
     ],
     "streams": [
         {
-            "$id": "thomas-site-locations",
+            "$id": "thomas-site-locationss",
             "source": "knowledgeGraph",
             "destination": "pages",
             "fields": [
