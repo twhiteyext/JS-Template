@@ -3,7 +3,7 @@
     "features": [
         {
             "name": "Locationss",
-            "streamId": "thomas-site-locationssssss",
+            "streamId": "thomas-site-locationsssssss",
             "templateType": "JS",
             "entityPageSet": {}
         },
@@ -15,7 +15,7 @@
     ],
     "streams": [
         {
-            "$id": "thomas-site-locationssssss",
+            "$id": "thomas-site-locationsssssss",
             "source": "knowledgeGraph",
             "destination": "pages",
             "fields": [
