@@ -1,2 +1,2 @@
 # JS Template
-Barebones JS site including a site streammm
+Barebones JS site including a site streammmm
